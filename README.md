@@ -1,6 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-The task is to refactor an existing webpage to make it accessible.
+The challenge is to refactor an existing webpage to make it accessible.
 
 Leave the code cleaner than it started.
 
